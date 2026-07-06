@@ -12,9 +12,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the School of Physics at Peking University. My research focuses on integrated photonics and nonlinear optical systems, with current interests in integrated optical frequency combs, thin-film lithium niobate photonics, precision time-frequency measurement, and Rydberg atoms.
+I am a Ph.D. student in Physics at the [School of Physics, Peking University](https://www.phy.pku.edu.cn/) under the supervision of Prof. [Qi-Fan Yang](https://scholar.google.com/citations?hl=en&user=d3-5WygAAAAJ). I obtained my bachelor's degree from the [School of Physics, Nankai University](https://physics.nankai.edu.cn/).
 
-Before joining Peking University, I received my B.S. degree from the School of Physics at Nankai University. I am broadly interested in chip-scale optical systems that connect nonlinear photonics, microwave-rate microcombs, and precision measurement.
+My research mainly focuses on integrated photonics and nonlinear optical systems, with an emphasis on building chip-scale soliton microcomb sources and thin-film lithium niobate photonic devices for precision time-frequency measurement. I am also interested in Rydberg atoms.
 
 <span class='anchor' id='news'></span>
 
