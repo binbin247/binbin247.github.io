@@ -111,6 +111,59 @@
     font-size: $type-size-6;
   }
 
+  .publication-list {
+    margin-top: 1.5em;
+  }
+
+  .publication-item {
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    padding: 1.7em 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .publication-image {
+    flex: 0 0 42%;
+  }
+
+  .publication-image img {
+    display: block;
+    width: 100%;
+    max-height: 240px;
+    object-fit: contain;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(#000, 0.15);
+  }
+
+  .publication-citation {
+    flex: 1 1 auto;
+  }
+
+  .publication-citation ul {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+  }
+
+  .publication-citation p {
+    margin-bottom: 0;
+  }
+
+  .publication-item--pending-image {
+    display: block;
+    padding-left: 0;
+  }
+
+  @include breakpoint(max-width $medium) {
+    .publication-item {
+      display: block;
+    }
+
+    .publication-image {
+      margin-bottom: 1em;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

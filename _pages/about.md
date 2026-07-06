@@ -33,18 +33,59 @@ Before joining Peking University, I received my B.S. degree from the School of P
 
 Selected journal and preprint records are listed below. For the full and updated list, see my [Google Scholar profile](https://scholar.google.com/citations?user=S4zZ3TAAAAAJ&hl=en&oi=ao).
 
-## First-author and co-first-author papers
-
-- **Binbin Nie**, et al. "Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators." *Nature Communications* 16, 2389 (2025). Co-first author.
-- **Binbin Nie**, et al. "Soliton microcombs in X-cut LiNbO3 microresonators." *eLight* 5, 15 (2025). First author.
-- **Binbin Nie**, et al. "Raman-induced dynamics of ultrafast microresonator solitons." *arXiv:2511.04013* (2025). First author.
-
-## Contributed papers
-
-- "Electrically pumped soliton microcombs on thin-film lithium niobate." *Nanophotonics* 14, 4813-4819 (2025).
-- "Equilibrium dynamics of mutually confined waves with signed analogous masses." *Physical Review Letters* 131, 087201 (2023).
-- "Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators." *Optica* 13, 519-526 (2026).
-- "Program gain and loss for broadband soliton microcombs." *arXiv:2604.19913* (2026).
+<div class="publication-list">
+  <div class="publication-item publication-item--pending-image">
+    <div class="publication-citation">
+      <ul><li><a href="https://www.nature.com/articles/s41467-025-57736-3">Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators</a></li></ul>
+      <p><strong>Binbin Nie</strong>, et al. "Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators." <em>Nature Communications</em> 16, 2389 (2025).</p>
+    </div>
+  </div>
+  <div class="publication-item publication-item--pending-image">
+    <div class="publication-citation">
+      <ul><li><a href="https://link.springer.com/article/10.1186/s43593-025-00093-x">Soliton microcombs in X-cut LiNbO3 microresonators</a></li></ul>
+      <p><strong>Binbin Nie</strong>, et al. "Soliton microcombs in X-cut LiNbO3 microresonators." <em>eLight</em> 5, 15 (2025).</p>
+    </div>
+  </div>
+  <div class="publication-item publication-item--pending-image">
+    <div class="publication-citation">
+      <ul><li><a href="https://arxiv.org/abs/2511.04013">Raman-induced dynamics of ultrafast microresonator solitons</a></li></ul>
+      <p><strong>Binbin Nie</strong>, et al. "Raman-induced dynamics of ultrafast microresonator solitons." <em>arXiv:2511.04013</em> (2025).</p>
+    </div>
+  </div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/electrically-pumped-linbo3.jpg" alt="Electrically pumped soliton microcombs on thin-film lithium niobate figure">
+    </div>
+    <div class="publication-citation">
+      <ul><li><a href="https://doi.org/10.1515/nanoph-2025-0510">Electrically pumped soliton microcombs on thin-film lithium niobate</a></li></ul>
+      <p>"Electrically pumped soliton microcombs on thin-film lithium niobate." <em>Nanophotonics</em> 14, 4813-4819 (2025).</p>
+    </div>
+  </div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/signed-mass-waves.jpg" alt="Equilibrium dynamics of mutually confined waves with signed analogous masses figure">
+    </div>
+    <div class="publication-citation">
+      <ul><li><a href="https://link.aps.org/doi/10.1103/PhysRevLett.131.087201">Equilibrium dynamics of mutually confined waves with signed analogous masses</a></li></ul>
+      <p>"Equilibrium dynamics of mutually confined waves with signed analogous masses." <em>Physical Review Letters</em> 131, 087201 (2023).</p>
+    </div>
+  </div>
+  <div class="publication-item publication-item--pending-image">
+    <div class="publication-citation">
+      <ul><li><a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-13-3-519">Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators</a></li></ul>
+      <p>"Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators." <em>Optica</em> 13, 519-526 (2026).</p>
+    </div>
+  </div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/program-gain-loss.png" alt="Program gain and loss for broadband soliton microcombs figure">
+    </div>
+    <div class="publication-citation">
+      <ul><li><a href="https://arxiv.org/abs/2604.19913">Program gain and loss for broadband soliton microcombs</a></li></ul>
+      <p>"Program gain and loss for broadband soliton microcombs." <em>arXiv:2604.19913</em> (2026).</p>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='honors'></span>
 
