@@ -35,18 +35,21 @@ Selected journal and preprint records are listed below. For the full and updated
 
 <div class="publication-list">
   <div class="publication-item publication-item--pending-image">
+    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://www.nature.com/articles/s41467-025-57736-3">Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators</a></li></ul>
       <p><strong>Binbin Nie</strong>, et al. "Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators." <em>Nature Communications</em> 16, 2389 (2025).</p>
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
+    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://link.springer.com/article/10.1186/s43593-025-00093-x">Soliton microcombs in X-cut LiNbO3 microresonators</a></li></ul>
       <p><strong>Binbin Nie</strong>, et al. "Soliton microcombs in X-cut LiNbO3 microresonators." <em>eLight</em> 5, 15 (2025).</p>
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
+    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://arxiv.org/abs/2511.04013">Raman-induced dynamics of ultrafast microresonator solitons</a></li></ul>
       <p><strong>Binbin Nie</strong>, et al. "Raman-induced dynamics of ultrafast microresonator solitons." <em>arXiv:2511.04013</em> (2025).</p>
@@ -71,6 +74,7 @@ Selected journal and preprint records are listed below. For the full and updated
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
+    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-13-3-519">Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators</a></li></ul>
       <p>"Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators." <em>Optica</em> 13, 519-526 (2026).</p>

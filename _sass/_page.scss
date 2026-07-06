@@ -112,37 +112,49 @@
   }
 
   .publication-list {
-    margin-top: 1.5em;
+    margin-top: 1.8em;
   }
 
   .publication-item {
-    display: flex;
-    gap: 2em;
+    display: grid;
+    grid-template-columns: minmax(260px, 42%) minmax(0, 1fr);
+    column-gap: 2.2em;
     align-items: center;
-    padding: 1.7em 0;
+    padding: 2.1em 0;
     border-bottom: 1px solid $border-color;
   }
 
   .publication-image {
-    flex: 0 0 42%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: #fff;
   }
 
   .publication-image img {
     display: block;
-    width: 100%;
+    width: auto;
+    height: auto;
+    max-width: 100%;
     max-height: 240px;
     object-fit: contain;
     background: #fff;
     box-shadow: 0 2px 8px rgba(#000, 0.15);
   }
 
+  .publication-image--blank {
+    min-height: 190px;
+    box-shadow: none;
+  }
+
   .publication-citation {
-    flex: 1 1 auto;
+    min-width: 0;
   }
 
   .publication-citation ul {
     margin-top: 0;
     margin-bottom: 0.8em;
+    padding-left: 1.25em;
   }
 
   .publication-citation p {
@@ -150,8 +162,7 @@
   }
 
   .publication-item--pending-image {
-    display: block;
-    padding-left: 0;
+    display: grid;
   }
 
   @include breakpoint(max-width $medium) {
@@ -161,6 +172,10 @@
 
     .publication-image {
       margin-bottom: 1em;
+    }
+
+    .publication-image--blank {
+      display: none;
     }
   }
 
