@@ -26,7 +26,7 @@ My research mainly focuses on integrated photonics and nonlinear optical systems
 - *2025.12*: Awarded the National Scholarship.
 - *2025.12*: Selected for the NSFC Young Student Basic Research Program.
 - *2025.03*: Co-first-author paper on broadband microwave-rate dark-pulse microcombs published in [*Nature Communications*](https://www.nature.com/articles/s41467-025-57736-3).
-- *2024.11*: Poster presentation at the 7th International Workshop on Microcavities and their Applications (WOMA 2024), Dunedin, New Zealand.
+- *2024.11*: Poster presentation at the 7th International Workshop on Microcavities and their Applications ([WOMA 2024](https://www.wgmr.eu/post/2024_woma/)), Dunedin, New Zealand.
 - *2023.09*: Started my Ph.D. study at the School of Physics, Peking University, supervised by Prof. [Qi-Fan Yang](https://researchgroups.pku.edu.cn/LIPPM/en/zdylm/41866/list/index.htm).
 
 <span class='anchor' id='publications'></span>
@@ -132,7 +132,7 @@ Selected journal and preprint records are listed below. For the full and updated
 - *2026.05*, Conference on Lasers and Electro-Optics (CLEO 2026), Charlotte, USA. Oral presentation: "Modified Raman-induced Self-frequency Shift of Ultrafast Microresonator Solitons."
 - *2025.12*, 12th Five-University Alliance Doctoral Academic Forum, Nanjing University, China. Oral presentation: "Raman-induced dynamics of ultrafast microresonator solitons."
 - *2025.08*, 10th Microcavity Photonics Workshop, Beijing, China. Poster: "Raman-induced soliton self-frequency shift in the ultrafast domain."
-- *2024.11*, The 7th International Workshop on Microcavities and their Applications (WOMA 2024), Dunedin, New Zealand. Poster: "Soliton microcombs in X-cut LiNbO3 microresonators."
+- *2024.11*, The 7th International Workshop on Microcavities and their Applications ([WOMA 2024](https://www.wgmr.eu/post/2024_woma/)), Dunedin, New Zealand. Poster: "Soliton microcombs in X-cut LiNbO3 microresonators."
 - *2024.08*, Microcavity Photonics Workshop 2024, Wuhan, China. Poster: "Soliton microcombs in X-cut LiNbO3 microresonators."
 - *2024.03*, First Applied Physics Conference, Liyang, China. Oral presentation: "Broadband microwave-rate dark pulse microcombs in integrated LiNbO3 microresonators."
 - *2024*, CLEO-PR 2024. Conference paper: "Microwave-rate dark pulse microcombs in integrated LiNbO3 microresonators."
