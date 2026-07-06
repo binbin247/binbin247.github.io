@@ -31,7 +31,7 @@ Before joining Peking University, I received my B.S. degree from the School of P
 
 # Publications
 
-Selected journal and preprint records are listed below. For the full and updated list, see my [Google Scholar profile](https://scholar.google.com/citations?user=S4zZ3TAAAAAJ&hl=en&oi=ao).
+Selected journal and preprint records are listed below. For the full and updated list, see my [Google Scholar profile](https://scholar.google.com/citations?user=S4zZ3TAAAAAJ&hl=en&oi=ao). Google Scholar citations: 59 as of July 6, 2026.
 
 <div class="publication-list">
   <h2>First-author and co-first-author papers</h2>
