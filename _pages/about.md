@@ -35,8 +35,10 @@ Selected journal and preprint records are listed below. For the full and updated
 
 <div class="publication-list">
   <h2>First-author and co-first-author papers</h2>
-  <div class="publication-item publication-item--pending-image">
-    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/raman-induced-dynamics.png" alt="Raman-induced dynamics of ultrafast microresonator solitons figure">
+    </div>
     <div class="publication-citation">
       <ul><li><a href="https://arxiv.org/abs/2511.04013">Raman-induced dynamics of ultrafast microresonator solitons</a></li></ul>
       <p><strong>Binbin Nie</strong>, Yuanlei Wang, Du Qian, Yiwen Yang, Haoyang Luo, Junqi Wang, Yun-Feng Xiao, Qihuang Gong, and Qi-Fan Yang. &ldquo;Raman-induced dynamics of ultrafast microresonator solitons,&rdquo; <em>arXiv:2511.04013</em> (2025).</p>
