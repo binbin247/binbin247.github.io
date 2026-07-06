@@ -12,7 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Physics at the [School of Physics, Peking University](https://www.phy.pku.edu.cn/) under the supervision of Prof. [Qi-Fan Yang](https://scholar.google.com/citations?hl=en&user=d3-5WygAAAAJ). I obtained my bachelor's degree from the [School of Physics, Nankai University](https://physics.nankai.edu.cn/).
+I am a Ph.D. student in Physics at the [School of Physics, Peking University](https://www.phy.pku.edu.cn/) under the supervision of Prof. [Qi-Fan Yang](https://researchgroups.pku.edu.cn/LIPPM/en/zdylm/41866/list/index.htm). I obtained my bachelor's degree from the [School of Physics, Nankai University](https://physics.nankai.edu.cn/).
 
 My research mainly focuses on integrated photonics and nonlinear optical systems, with an emphasis on building chip-scale soliton microcomb sources and thin-film lithium niobate photonic devices for precision time-frequency measurement. I am also interested in Rydberg atoms.
 
