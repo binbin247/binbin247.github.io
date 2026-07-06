@@ -25,7 +25,7 @@ My research mainly focuses on integrated photonics and nonlinear optical systems
 - *2025.12*: Oral presentation at the 12th Five-University Alliance Doctoral Academic Forum.
 - *2025.12*: Awarded the National Scholarship and selected for the NSFC Young Student Basic Research Program.
 - *2025.08*: Poster presentation at the 10th Microcavity Photonics Workshop.
-- *2025.03*: Co-first-author paper on broadband microwave-rate dark-pulse microcombs published in *Nature Communications*.
+- *2025.03*: Co-first-author paper on broadband microwave-rate dark-pulse microcombs published in [*Nature Communications*](https://www.nature.com/articles/s41467-025-57736-3).
 
 <span class='anchor' id='publications'></span>
 
