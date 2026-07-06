@@ -42,8 +42,10 @@ Selected journal and preprint records are listed below. For the full and updated
       <p><strong>Binbin Nie</strong>, Yuanlei Wang, Du Qian, Yiwen Yang, Haoyang Luo, Junqi Wang, Yun-Feng Xiao, Qihuang Gong, and Qi-Fan Yang. &ldquo;Raman-induced dynamics of ultrafast microresonator solitons,&rdquo; <em>arXiv:2511.04013</em> (2025).</p>
     </div>
   </div>
-  <div class="publication-item publication-item--pending-image">
-    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/soliton-xcut-linbo3.png" alt="Soliton microcombs in X-cut LiNbO3 microresonators figure">
+    </div>
     <div class="publication-citation">
       <ul><li><a href="https://link.springer.com/article/10.1186/s43593-025-00093-x">Soliton microcombs in X-cut LiNbO3 microresonators</a></li></ul>
       <p><strong>Binbin Nie</strong>, Xiaomin Lv, Chen Yang, Rui Ma, Kaixuan Zhu, Ze Wang, Yanwu Liu, Zhenyu Xie, Xing Jin, Guanyu Zhang, Du Qian, Zhenyu Chen, Qiang Luo, Shuting Kang, Guowei Lv, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Soliton microcombs in X-cut LiNbO3 microresonators,&rdquo; <em>eLight</em> 5, 15 (2025).</p>
