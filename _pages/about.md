@@ -53,8 +53,10 @@ Selected journal and preprint records are listed below. For the full and updated
       <p><strong>Binbin Nie</strong>, Xiaomin Lv, Chen Yang, Rui Ma, Kaixuan Zhu, Ze Wang, Yanwu Liu, Zhenyu Xie, Xing Jin, Guanyu Zhang, Du Qian, Zhenyu Chen, Qiang Luo, Shuting Kang, Guowei Lv, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Soliton microcombs in X-cut LiNbO3 microresonators,&rdquo; <em>eLight</em> 5, 15 (2025).</p>
     </div>
   </div>
-  <div class="publication-item publication-item--pending-image">
-    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/broadband-dark-pulse-linbo3.png" alt="Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators figure">
+    </div>
     <div class="publication-citation">
       <ul><li><a href="https://www.nature.com/articles/s41467-025-57736-3">Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators</a></li></ul>
       <p>Xiaomin Lv, <strong>Binbin Nie</strong>, Chen Yang, Rui Ma, Ze Wang, Yanwu Liu, Xing Jin, Kaixuan Zhu, Zhenyu Chen, Du Qian, Guanyu Zhang, Guowei Lv, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators,&rdquo; <em>Nature Communications</em> 16, 2389 (2025).</p>
