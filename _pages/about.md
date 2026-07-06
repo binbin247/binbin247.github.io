@@ -38,21 +38,21 @@ Selected journal and preprint records are listed below. For the full and updated
     <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://www.nature.com/articles/s41467-025-57736-3">Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators</a></li></ul>
-      <p><strong>Binbin Nie</strong>, et al. "Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators." <em>Nature Communications</em> 16, 2389 (2025).</p>
+      <p>Xiaomin Lv, <strong>Binbin Nie</strong>, Chen Yang, Rui Ma, Ze Wang, Yanwu Liu, Xing Jin, Kaixuan Zhu, Zhenyu Chen, Du Qian, Guanyu Zhang, Guowei Lv, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Broadband microwave-rate dark pulse microcombs in dissipation-engineered LiNbO3 microresonators,&rdquo; <em>Nature Communications</em> 16, 2389 (2025).</p>
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
     <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://link.springer.com/article/10.1186/s43593-025-00093-x">Soliton microcombs in X-cut LiNbO3 microresonators</a></li></ul>
-      <p><strong>Binbin Nie</strong>, et al. "Soliton microcombs in X-cut LiNbO3 microresonators." <em>eLight</em> 5, 15 (2025).</p>
+      <p><strong>Binbin Nie</strong>, Xiaomin Lv, Chen Yang, Rui Ma, Kaixuan Zhu, Ze Wang, Yanwu Liu, Zhenyu Xie, Xing Jin, Guanyu Zhang, Du Qian, Zhenyu Chen, Qiang Luo, Shuting Kang, Guowei Lv, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Soliton microcombs in X-cut LiNbO3 microresonators,&rdquo; <em>eLight</em> 5, 15 (2025).</p>
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
     <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://arxiv.org/abs/2511.04013">Raman-induced dynamics of ultrafast microresonator solitons</a></li></ul>
-      <p><strong>Binbin Nie</strong>, et al. "Raman-induced dynamics of ultrafast microresonator solitons." <em>arXiv:2511.04013</em> (2025).</p>
+      <p><strong>Binbin Nie</strong>, Yuanlei Wang, Du Qian, Yiwen Yang, Haoyang Luo, Junqi Wang, Yun-Feng Xiao, Qihuang Gong, and Qi-Fan Yang. &ldquo;Raman-induced dynamics of ultrafast microresonator solitons,&rdquo; <em>arXiv:2511.04013</em> (2025).</p>
     </div>
   </div>
   <div class="publication-item">
@@ -61,7 +61,7 @@ Selected journal and preprint records are listed below. For the full and updated
     </div>
     <div class="publication-citation">
       <ul><li><a href="https://doi.org/10.1515/nanoph-2025-0510">Electrically pumped soliton microcombs on thin-film lithium niobate</a></li></ul>
-      <p>"Electrically pumped soliton microcombs on thin-film lithium niobate." <em>Nanophotonics</em> 14, 4813-4819 (2025).</p>
+      <p>Xiaomin Lv, Ze Wang, Tianyu Xu, Chen Yang, Xing Jin, <strong>Binbin Nie</strong>, Du Qian, Yanwu Liu, Kaixuan Zhu, Bo Ni, Qihuang Gong, Fang Bo, and Qi-Fan Yang. &ldquo;Electrically pumped soliton microcombs on thin-film lithium niobate,&rdquo; <em>Nanophotonics</em> 14, 4813-4819 (2025).</p>
     </div>
   </div>
   <div class="publication-item">
@@ -70,14 +70,14 @@ Selected journal and preprint records are listed below. For the full and updated
     </div>
     <div class="publication-citation">
       <ul><li><a href="https://link.aps.org/doi/10.1103/PhysRevLett.131.087201">Equilibrium dynamics of mutually confined waves with signed analogous masses</a></li></ul>
-      <p>"Equilibrium dynamics of mutually confined waves with signed analogous masses." <em>Physical Review Letters</em> 131, 087201 (2023).</p>
+      <p>Ping Zhang, Qing Guo, Hao Wu, Zeyu Gong, <strong>Binbin Nie</strong>, Yi Hu, Zhigang Chen, and Jingjun Xu. &ldquo;Equilibrium dynamics of mutually confined waves with signed analogous masses,&rdquo; <em>Physical Review Letters</em> 131, 087201 (2023).</p>
     </div>
   </div>
   <div class="publication-item publication-item--pending-image">
     <div class="publication-image publication-image--blank" aria-hidden="true"></div>
     <div class="publication-citation">
       <ul><li><a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-13-3-519">Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators</a></li></ul>
-      <p>"Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators." <em>Optica</em> 13, 519-526 (2026).</p>
+      <p>Yinke Cheng, Zhenyu Xie, Yuanlei Wang, <strong>Binbin Nie</strong>, Xing Jin, Haoyang Luo, Junqi Wang, Zixuan Zhou, Qihuang Gong, Lin Chang, Yaowen Hu, and Qi-Fan Yang. &ldquo;Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators,&rdquo; <em>Optica</em> 13, 519-526 (2026).</p>
     </div>
   </div>
   <div class="publication-item">
@@ -86,7 +86,7 @@ Selected journal and preprint records are listed below. For the full and updated
     </div>
     <div class="publication-citation">
       <ul><li><a href="https://arxiv.org/abs/2604.19913">Program gain and loss for broadband soliton microcombs</a></li></ul>
-      <p>"Program gain and loss for broadband soliton microcombs." <em>arXiv:2604.19913</em> (2026).</p>
+      <p>Yuanlei Wang, Xinrui Luo, <strong>Binbin Nie</strong>, Du Qian, Zhenchao Mei, Yanwu Liu, Haoyang Luo, Junqi Wang, Yiwen Yang, Zu-Lei Wu, Tianxiang Hong, Bei-Bei Li, Qihuang Gong, and Qi-Fan Yang. &ldquo;Program gain and loss for broadband soliton microcombs,&rdquo; <em>arXiv:2604.19913</em> (2026).</p>
     </div>
   </div>
 </div>
