@@ -73,8 +73,10 @@ Selected journal and preprint records are listed below. For the full and updated
       <p>Yuanlei Wang, Xinrui Luo, <strong>Binbin Nie</strong>, Du Qian, Zhenchao Mei, Yanwu Liu, Haoyang Luo, Junqi Wang, Yiwen Yang, Zu-Lei Wu, Tianxiang Hong, Bei-Bei Li, Qihuang Gong, and Qi-Fan Yang. &ldquo;Program gain and loss for broadband soliton microcombs,&rdquo; <em>arXiv:2604.19913</em> (2026).</p>
     </div>
   </div>
-  <div class="publication-item publication-item--pending-image">
-    <div class="publication-image publication-image--blank" aria-hidden="true"></div>
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/publications/communication-ready-fp-microcombs.png" alt="Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators figure">
+    </div>
     <div class="publication-citation">
       <ul><li><a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-13-3-519">Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators</a></li></ul>
       <p>Yinke Cheng, Zhenyu Xie, Yuanlei Wang, <strong>Binbin Nie</strong>, Xing Jin, Haoyang Luo, Junqi Wang, Zixuan Zhou, Qihuang Gong, Lin Chang, Yaowen Hu, and Qi-Fan Yang. &ldquo;Communication-ready high-power soliton microcombs in highly dispersive Fabry-Perot microresonators,&rdquo; <em>Optica</em> 13, 519-526 (2026).</p>
