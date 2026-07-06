@@ -189,6 +189,16 @@
     }
   }
 
+  @include breakpoint(max-width $small) {
+    min-width: 0;
+    padding-right: 2.25rem;
+
+    a {
+      margin: 0 0.35rem;
+      font-size: $type-size-6;
+    }
+  }
+
   button {
     position: absolute;
     height: 100%;
