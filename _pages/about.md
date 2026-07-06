@@ -26,7 +26,7 @@ My research mainly focuses on integrated photonics and nonlinear optical systems
 - *2025.12*: Awarded the National Scholarship.
 - *2025.12*: Selected for the NSFC Young Student Basic Research Program.
 - *2025.03*: Co-first-author paper on broadband microwave-rate dark-pulse microcombs published in [*Nature Communications*](https://www.nature.com/articles/s41467-025-57736-3).
-- *2024.11*: Poster presentation at the 7th International Workshop on Microcavities and their Applications (WOMA 2024).
+- *2024.11*: Poster presentation at the 7th International Workshop on Microcavities and their Applications (WOMA 2024), Dunedin, New Zealand.
 - *2023.09*: Started my Ph.D. study at the School of Physics, Peking University, supervised by Prof. [Qi-Fan Yang](https://researchgroups.pku.edu.cn/LIPPM/en/zdylm/41866/list/index.htm).
 
 <span class='anchor' id='publications'></span>
