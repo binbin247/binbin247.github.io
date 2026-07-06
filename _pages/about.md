@@ -22,7 +22,6 @@ My research mainly focuses on integrated photonics and nonlinear optical systems
 
 - *2026.06*: Selected for the CAST Young Elite Scientists Sponsorship Program doctoral student track and joined the national study program in Beijing.
 - *2026.05*: Oral presentation at CLEO 2026 on modified Raman-induced self-frequency shift of ultrafast microresonator solitons.
-- *2025.12*: Oral presentation at the 12th Five-University Alliance Doctoral Academic Forum.
 - *2025.12*: Awarded the National Scholarship.
 - *2025.12*: Selected for the NSFC Young Student Basic Research Program.
 - *2025.03*: Co-first-author paper on broadband microwave-rate dark-pulse microcombs published in [*Nature Communications*](https://www.nature.com/articles/s41467-025-57736-3).
